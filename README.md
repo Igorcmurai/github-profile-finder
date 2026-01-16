@@ -2,6 +2,8 @@
 
 A clean and minimal GitHub profile search app. Search by username to view a simple profile summary and the top 3 repositories (sorted by stars).
 
+**Live:** https://igorcmurai-github-profile-finder.vercel.app/
+
 ## Features
 - Search GitHub users by username
 - Essentials-only profile summary
@@ -14,8 +16,8 @@ React (Vite) · JavaScript · CSS · GitHub REST API
 
 ## Run locally
 ```bash
-git clone <repo-url>
-cd githubfinder
+git clone https://github.com/Igorcmurai/github-profile-finder.git
+cd github-profile-finder
 npm install
 npm run dev
 ```
